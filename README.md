@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Song, a CS student with a passion for AI.
 - 👀 I’m interested in all things AI and programming.
-- 🌱 Currently learning competitive programming and always seeking new challenges.
+- 🌱 Currently learning how to build projects.
 - 💞️ Not looking to collaborate at the moment, but feel free to reach out!
 - 📫 Contact me: matthewsong18@gmail.com
 
